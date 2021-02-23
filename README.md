@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CloudNativ OR Sam Harrison
 - 👀 I’m interested in speaking with engineers about new opportunities.
-- 🌱 I’m currently learning to walk slower
+- 🌱 I’m currently learning to walk slower, I moved out of NYC.
 - 💞️ I’m looking to collaborate on articles, I write for techbeacon.com and devops.com
 - 📫 How to reach me sam.harrison@beskar.io
 
